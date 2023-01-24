@@ -1,0 +1,8 @@
+{
+  "name": "Rhodes event page",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "aed95096"
+}

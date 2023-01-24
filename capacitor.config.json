@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Rhodes event page",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
